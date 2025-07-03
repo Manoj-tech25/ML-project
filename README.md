@@ -84,7 +84,7 @@ Then open your browser and go to:
 
 ### 📸 Screenshot
 
-![screenshot](assets/demo-ui.png) *(Optional)*
+![screenshot](Screenshot 2025-07-03 171433.png) 
 
 ---
 
