@@ -20,7 +20,7 @@ logging.basicConfig(
     force=True
 )
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("project_logger")
 
 
 
