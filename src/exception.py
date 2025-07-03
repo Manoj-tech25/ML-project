@@ -20,3 +20,13 @@ class CustomException(Exception):
 
 
 
+from src.logger import logging
+from src.exception import CustomException
+import sys
+
+if __name__ == "__main__":
+    try:
+        x = 1 / 0
+    except Exception as e:
+        logging.info("div by 0")
+        raise CustomException(e, sys)
