@@ -82,12 +82,6 @@ Then open your browser and go to:
 
 ---
 
-### 📸 Screenshot
-
-![screenshot](Screenshot 2025-07-03 171433.png) 
-
----
-
 ### ✅ Features
 
 * Clean modular code
